@@ -1,0 +1,2 @@
+
+[{"id":"1","title":"Title1","text":"Text1","date":"10.02.2000","author":"Author1","comments":[{"id":"123","articleId":"1","text":"comm1","date":"15.02.2000","author":"commentor1"},{"id":"1234","articleId":"1","text":"comm2","date":"20.05.2000","author":"commentor2"}]},{"id":"3","title":"Title3","text":"Text3","date":"12.02.2013","author":"Author3","comments":[{"id":"555","articleId":"3","text":"comm1","date":"15.02.2014","author":"commentor1"},{"id":"1287","articleId":"3","text":"comm2","date":"20.05.2013","author":"commentor2"}]}]
